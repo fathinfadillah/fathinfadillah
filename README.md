@@ -15,6 +15,7 @@
 #### 🛠️ Tools
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=21AAF2)](https://visualstudio.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA&logoColor=21AAF2)](https://www.jetbrains.com/idea/)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com)
 
 
