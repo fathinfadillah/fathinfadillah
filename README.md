@@ -12,6 +12,12 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fathinfadillahh)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCk1EDSMpPbvdOOSjdymHFcw)
 
+#### ☁️ Services
+[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)](https://www.cloudflare.com)
+[![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google-cloud)](https://cloud.google.com)
+[![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
+
 #### 🛠️ Tools
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=21AAF2)](https://visualstudio.com)
@@ -27,6 +33,16 @@
 
 #### 🎵 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m.fathinfadillah&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
+#### Statistics
+[![fathinfadillah github streaks](http://github-readme-streak-stats.herokuapp.com?user=fathinfadillah&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![fathinfadillah's Github stats](https://github-readme-stats.vercel.app/api?username=fathinfadillah&show_icons=true&theme=black-ice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![fathinfadillah's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fathinfadillah&layout=compact&theme=black-ice)](https://github.com/anuraghazra/github-readme-stats)
+
+![fathinfadillah's Profile views](https://komarev.com/ghpvc/?username=fathinfadillah&color=blue&style=flat&label=Profile+views)
 <!---
 fathinfadillah/fathinfadillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
