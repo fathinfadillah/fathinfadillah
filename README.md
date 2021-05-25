@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @fathinfadillah
 - 💡 I'm like to explore new technologies, I'm a Tech Enthusiast.
 - 👀 I’m interested in Creative Industry | Photography | Videography | Technology
-- 🌱 I’m currently learning C, C#, Java
+- 🌱 I’m currently learning C, SQL, C#, Java
 - 🔭 
 
 #### You may reach me at
@@ -16,6 +16,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=21AAF2)](https://visualstudio.com)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA)](https://www.jetbrains.com/idea/)
+[![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft-SQL-Server)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com)
 
 
