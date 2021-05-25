@@ -40,7 +40,7 @@
 
 [![fathinfadillah's Github stats](https://github-readme-stats.vercel.app/api?username=fathinfadillah&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![fathinfadillah's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?usernamefathinfadillah&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![fathinfadillah's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fathinfadillah&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![fathinfadillah's Profile views](https://komarev.com/ghpvc/?username=fathinfadillah&color=blue&style=flat&label=Profile+views)
 <!---
