@@ -36,11 +36,11 @@
 
 
 #### Statistics
-[![fathinfadillah github streaks](http://github-readme-streak-stats.herokuapp.com?user=fathinfadillah&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![fathinfadillah github streaks](http://github-readme-streak-stats.herokuapp.com?user=fathinfadillah&theme=algolia)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![fathinfadillah's Github stats](https://github-readme-stats.vercel.app/api?username=fathinfadillah&show_icons=true&theme=black-ice)](https://github.com/anuraghazra/github-readme-stats)
+[![fathinfadillah's Github stats](https://github-readme-stats.vercel.app/api?username=fathinfadillah&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![fathinfadillah's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fathinfadillah&layout=compact&theme=black-ice)](https://github.com/anuraghazra/github-readme-stats)
+[![fathinfadillah's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fathinfadillah&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![fathinfadillah's Profile views](https://komarev.com/ghpvc/?username=fathinfadillah&color=blue&style=flat&label=Profile+views)
 <!---
