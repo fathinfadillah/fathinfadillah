@@ -32,7 +32,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=007ACC)](https://www.microsoft.com/en-us/windows)
 
 #### 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m.fathinfadillah&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m.fathinfadillah&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 #### Statistics
