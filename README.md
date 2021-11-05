@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @fathinfadillah
 - 💡 I'm like to explore new technologies, I'm a Tech Enthusiast.
 - 👀 I’m interested in Creative Industry | Photography | Videography | Technology
-- 🌱 I’m currently learning C, SQL, C#, Java
+- 🌱 I’m currently learning C, SQL, C#, Java, ASP.NET, PHP
 - 🔭 
 
 #### You may reach me at
