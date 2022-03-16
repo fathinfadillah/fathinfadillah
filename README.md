@@ -1,4 +1,4 @@
-//![](https://github.com/fathinfadillah/fathinfadillah/blob/main/banner.png)
+###![](https://github.com/fathinfadillah/fathinfadillah/blob/main/banner.png)
 ## Hi there! I'm [Fathin!](http:/fathinfadillah.com) 👋
 
 - 👋 Hi, I’m @fathinfadillah
