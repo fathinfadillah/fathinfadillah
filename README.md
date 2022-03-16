@@ -1,10 +1,10 @@
-![](https://github.com/fathinfadillah/fathinfadillah/blob/main/banner.png)
-## Hi there! I'm [Fathin!](http:/fathinfadillah.me) 👋
+//![](https://github.com/fathinfadillah/fathinfadillah/blob/main/banner.png)
+## Hi there! I'm [Fathin!](http:/fathinfadillah.com) 👋
 
 - 👋 Hi, I’m @fathinfadillah
 - 💡 I'm like to explore new technologies, I'm a Tech Enthusiast.
 - 👀 I’m interested in Creative Industry | Photography | Videography | Technology
-- 🌱 I’m currently learning C, SQL, C#, Java, ASP.NET, PHP
+- 🌱 I’m currently learning C, SQL, C#, Java, ASP.NET, PHP, Java WEB, Android
 - 🔭 
 
 #### You may reach me at
