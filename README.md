@@ -5,7 +5,9 @@
 - 💡 I'm like to explore new technologies, I'm a Tech Enthusiast.
 - 👀 I’m interested in Creative Industry | Photography | Videography | Technology
 - 🌱 I’m currently learning C, SQL, C#, Java, ASP.NET, PHP, Java WEB, Android
-- 🔭 
+- 🔭 Currently explore new tech...
+
+![alt text](https://github.com/fathinfadillah/fathinfadillah/blob/main/hhh.jpg?raw=true)
 
 #### You may reach me at
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fathinfadillah/)
@@ -33,7 +35,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=007ACC)](https://www.microsoft.com/en-us/windows)
 
 #### 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m.fathinfadillah&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=m.fathinfadillah&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=m.fathinfadillah&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 
 #### Statistics
