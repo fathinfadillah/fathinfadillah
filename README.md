@@ -35,7 +35,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=007ACC)](https://www.microsoft.com/en-us/windows)
 
 #### 🎵 Now Playing
-[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=m.fathinfadillah&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=m.fathinfadillah&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m.fathinfadillah&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=m.fathinfadillah&redirect=true)
 
 
 #### Statistics
